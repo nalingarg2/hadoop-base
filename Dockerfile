@@ -1,6 +1,6 @@
-FROM nalingarg2
+FROM nalingarg2/serf-dnsmasq
 
-MAINTAINER KiwenLau <kiwenlau@gmail.com>
+MAINTAINER nalin.garg@cloudwick.com
 
 # install openssh-server, vim and openjdk
 RUN apt-get install -y openssh-server vim
