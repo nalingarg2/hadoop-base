@@ -1,4 +1,4 @@
-FROM nalingarg2/serf-dnsmasq
+FROM kiwenlau/serf-dnsmasq:0.1.0
 
 MAINTAINER nalin.garg@cloudwick.com
 
