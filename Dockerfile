@@ -1,4 +1,4 @@
-FROM kiwenlau/serf-dnsmasq:0.1.0
+FROM nalingarg2
 
 MAINTAINER KiwenLau <kiwenlau@gmail.com>
 
