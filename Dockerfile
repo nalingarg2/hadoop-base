@@ -3,7 +3,7 @@ FROM nalingarg2/serf-dnsmasq
 MAINTAINER nalin.garg@cloudwick.com
 
 # install openssh-server, vim and openjdk
-RUN apt-get install -y openssh-server vim
+RUN apt-get install -y openssh-server 
 RUN apt-get install -y openjdk-7-jdk 
 
 # move all configuration files into container
